@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: 123456
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tFhxyS5Jg2XrfQTbWnA
+    access-key-secret: nj2TvhIKTGQLMbDv0ID5g014fytgjL
+    bucket-name: hisbeacon-bucket
